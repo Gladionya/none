@@ -1,1 +1,17 @@
-<?xml version="1.0" ?>\r\n<update_data_list>\r\n\t<region id="uk">\r\n\t\t<force_update>\r\n\t\t\t<system level0_system_ex_version="0" level0_system_version="11.008.000" level1_system_ex_version="0" level1_system_version="11.008.000"/>\r\n\t\t</force_update>\r\n\t\t<system_pup ex_version="0" label="11.01" sdk_version="11.010.001" version="11.010.000">\r\n\t\t\t<update_data update_type="full">\r\n\t\t\t\t<image size="490167296">http://ia903200.us.archive.org/27/items/PS4-System-Firmwares/Firmware%209.00/PS4UPDATE.PUP</image>\r\n\t\t\t</update_data>\r\n\t\t</system_pup>\r\n\t\t<recovery_pup type="default">\r\n\t\t\t<system_pup ex_version="0" label="11.01" sdk_version="11.010.001" version="11.010.000"/>\r\n\t\t\t<image size="490167296">http://ia903200.us.archive.org/27/items/PS4-System-Firmwares/Firmware%209.00/PS4UPDATE.PUP</image>\r\n\t\t</recovery_pup>\r\n\t</region>\r\n</update_data_list>\r\n
+<?xml version="1.0" ?>
+<update_data_list>
+        <region id="uk">
+                <force_update>
+                        <system level0_system_ex_version="0" level0_system_version="11.008.000" level1_system_ex_version="0" level1_system_version="11.008.000"/>
+                </force_update>
+                <system_pup ex_version="0" label="11.01" sdk_version="11.010.001" version="11.010.000">
+                        <update_data update_type="full">
+                                <image size="490167296">http://ia903200.us.archive.org/27/items/PS4-System-Firmwares/Firmware%209.00/PS4UPDATE.PUP</image>
+                        </update_data>
+                </system_pup>
+                <recovery_pup type="default">
+                        <system_pup ex_version="0" label="11.01" sdk_version="11.010.001" version="11.010.000"/>
+                        <image size="490167296">http://ia903200.us.archive.org/27/items/PS4-System-Firmwares/Firmware%209.00/PS4UPDATE.PUP</image>
+                </recovery_pup>
+        </region>
+</update_data_list>
